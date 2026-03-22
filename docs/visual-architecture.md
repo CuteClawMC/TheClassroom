@@ -2,7 +2,7 @@
 
 ## Visual Architecture Draft
 
-Date: 2026-03-21  
+Date: March 21, 2026  
 Prepared by: DC
 
 ## 1. System Flow

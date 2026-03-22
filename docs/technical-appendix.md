@@ -2,7 +2,7 @@
 
 ## Technical Appendix Draft
 
-Date: 2026-03-21  
+Date: March 21, 2026  
 Prepared by: DC  
 Companion to: [CLASSROOM_SUBNET_BITSTARTER_V2_NARRATIVE_DRAFT_2026-03-21.md](/Users/sirap/.openclaw/workspace/money-squad/docs/CLASSROOM_SUBNET_BITSTARTER_V2_NARRATIVE_DRAFT_2026-03-21.md)
 
@@ -21,7 +21,7 @@ It is not the final subnet specification. It is the minimum technical proof pack
 
 ## 1. Prototype Evidence Snapshot
 
-Current live prototype evidence from the running Money Squad environment as of 2026-03-21:
+Current live prototype evidence from the running Cute Claw environment as of March 21, 2026:
 
 ### Active lanes
 
