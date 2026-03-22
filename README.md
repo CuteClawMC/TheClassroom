@@ -6,6 +6,8 @@ Classroom is a network-native research engine for empirical market discovery. Th
 
 ## What Is In This Repo
 
+- [Landing page source](index.html)
+- [White paper PDF](docs/classroom-whitepaper.pdf)
 - [Bitstarter narrative PDF](docs/classroom-bitstarter-narrative.pdf)
 - [Technical appendix](docs/technical-appendix.md)
 - [Raise and economics draft](docs/raise-economics.md)
